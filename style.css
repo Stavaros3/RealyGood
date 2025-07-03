@@ -1,0 +1,121 @@
+body {
+    font-family: sans-serif;
+    
+    background-color: black;
+     text-align:center ;
+}
+
+header {
+     display:flex;
+     padding:30px ;
+    margin-bottom: 30px;
+    justify-content:center;
+     text-align:center ;
+    
+}
+
+  
+
+.button {
+    display:flex;
+    background-color: #36bbce;
+    color: rgb(255, 249, 249);
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    text-align: center;
+    justify-content:center;
+     text-decoration: underline;
+}
+
+nav { display:flex;
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+     justify-content:center;
+       text-align:center ;
+       text-decoration: underline;
+     }
+   
+    
+.nav-link {
+    display:flex;
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+      text-decoration: underline;
+    text-align:center ;
+    justify-content:center;
+    
+}
+
+h1 {
+    display:flex ;
+    text-align:center ;
+    color: rgb(255, 255, 255);
+    font-size: 36px;
+    margin-top:30px ;
+    margin-bottom:20px;
+    justify-content:center;
+     text-decoration: underline;
+
+      
+
+}
+
+p { display:flex ;
+    font-size: 24px;
+     text-align: center;
+     justify-content:center;
+      text-decoration: underline;
+}
+
+.info {
+    display:flex;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    justify-content:center;
+     text-align:center ;
+      text-decoration: underline; 
+}
+
+article {
+    background-color: white;
+    padding:20px ;
+    width: 400px;
+    margin:10px ;
+     text-decoration: underline;
+    text-align: center;
+}
+
+.article-but {
+     text-decoration: underline;
+    background-color: grey;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;     
+    justify-content:center  ;
+}
+
+footer {
+    display:flex;
+    background-color: white
+    padding:23px ;
+     text-align: center;
+      justify-content:center ;  
+      text-decoration: underline;
+}
+
+footer a {
+    margin-right:15px;
+     text-align: center;
+      text-decoration: underline;
+}
+
+footer p {
+    font-size: 24px;
+     text-align: center;
+      text-decoration: underline;
+}
